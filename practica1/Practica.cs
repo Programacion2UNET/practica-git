@@ -6,7 +6,7 @@ namespace practica1
 		public static void Main(string[] args)
 		{
 			Int32 num = 2017;
-			Console.WriteLine("Hola");
+			Console.WriteLine("Hola cambie el codigo");
 			Console.WriteLine(num.ToString());
 		}
 	}
