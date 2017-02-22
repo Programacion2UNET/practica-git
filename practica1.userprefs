@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{5A4E8230-D76E-4175-BD87-DF860A159A70}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="practica1/Main.cs">
+    <Files>
+      <File FileName="practica1/Main.cs" Line="10" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.practica1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
