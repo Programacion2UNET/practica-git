@@ -14,6 +14,9 @@ namespace ConsoleApplication1
             Console.WriteLine("Hola Chavez");
             Console.WriteLine(num.ToString());
             Console.ReadLine();
+
+
+            Console.WriteLine("Viva Chavez, comandante eterno!");
             
         }
     }
