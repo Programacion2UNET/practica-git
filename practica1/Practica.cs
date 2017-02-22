@@ -9,6 +9,7 @@ namespace practica1
 			Int32 num = 2017;
 			Console.WriteLine("Hola");
 			Console.WriteLine(num.ToString());
+            Console.ReadLine();
 		}
 	}
 }
