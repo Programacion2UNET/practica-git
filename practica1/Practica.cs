@@ -7,7 +7,7 @@ namespace practica1
 		{
 			//Probando que en C# el numero es un objeto
 			Int32 num = 2017;
-			Console.WriteLine("Hola");
+			Console.WriteLine("Hola mundo");
 			Console.WriteLine(num.ToString());
             Console.ReadLine();
 		}
