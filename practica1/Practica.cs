@@ -16,7 +16,7 @@ namespace practica1{
 			Console.WriteLine("Hola");
             Console.Write("hola compatriotas y compatriotos por aqui paso @nico");
 			Console.WriteLine(num.ToString());
-            		x = Console.ReadLine();
+            x = Console.ReadLine();
 			y = Console.ReadLine();
 			Console.Write(gcd(x,y));
 	
