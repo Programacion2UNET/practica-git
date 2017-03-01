@@ -11,7 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Int32 num = 2048;
-            Console.WriteLine("Hola Mundo");
+            Console.WriteLine("Hola mundo");
             Console.WriteLine(num.ToString());
             Console.ReadLine();
             
